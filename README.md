@@ -11,9 +11,9 @@
 🔥 💻 My skills:
 <div style="display": inline_block>
   <img aling="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
-  <img aling="center" alt="mysql" height="30" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img aling="center" alt="mongo" height="30" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img aling="center" alt="php" height="30" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img aling="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img aling="center" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img aling="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div><br>
 
 
