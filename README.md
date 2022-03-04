@@ -9,12 +9,42 @@
   </p>
 </div>
 🔥 💻 My skills:
+<!--
+https://devicon.dev/ - Baixar os SVG's.
+-->
 <div style="display": inline_block>
   <img aling="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
   <img aling="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img aling="center" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img aling="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+<!-- img aling="center" alt="prometheus" hight="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png?20200109082328">
+-->
 </div><br>
+<!-- ## 🏆 Course 👨‍🎓 Certifications
+Description    |  Institute |  Year  | Type
+------------ | ---------- | ---- | -----
+-->
+## 🌎 My Social Networking Sites
+<!-- 
+  https://dev.to/envoy_/150-badges-for-github-pnk - Badges para redes sociais.
+  API do WhatsApp - https://api.whatsapp.com/send?phone=seunumerodetelefone&text=sua%20mensagem
+-->
+
+<div>
+  <a href="https://www.facebook.com/srwilliansilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sebastiao-willian-pereira-regi-da-silva-2b380418a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5527999570725&text=Hi!%20I%20found%20you%20in%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
+
+## GitHub Statistics 🛠️
+
+<div align="center">
+  <a href= "https://github.com/SebastiaoRegiSilva">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SebastiaoRegiSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoRegiSilva&layout=compact&langs_count=7&theme=dark /">
+</div>
+    
+  
 
 
 <!--
