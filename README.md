@@ -8,7 +8,7 @@
     Public technical education student aiming for higher education in Portugal.    
   </p>
 </div>
-🔥 💻 My skills:
+<h3>🔥 💻 My skills: </h3>
 <!--
 https://devicon.dev/ - Baixar os SVG's.
 -->
@@ -19,17 +19,16 @@ https://devicon.dev/ - Baixar os SVG's.
   <img aling="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <!-- img aling="center" alt="prometheus" hight="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/115px-Prometheus_software_logo.svg.png?20200109082328">
 -->
-</div><br>
+</div>
 <!-- ## 🏆 Course 👨‍🎓 Certifications
 Description    |  Institute |  Year  | Type
 ------------ | ---------- | ---- | -----
 -->
-## 🌎 My Social Networking Sites
 <!-- 
   https://dev.to/envoy_/150-badges-for-github-pnk - Badges para redes sociais.
   API do WhatsApp - https://api.whatsapp.com/send?phone=seunumerodetelefone&text=sua%20mensagem
 -->
-
+<h3>🌎 My Social Networking Sites</h3>
 <div>
   <a href="https://www.facebook.com/srwilliansilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sebastiao-willian-pereira-regi-da-silva-2b380418a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
