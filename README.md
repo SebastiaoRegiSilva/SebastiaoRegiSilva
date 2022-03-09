@@ -40,7 +40,7 @@ Description    |  Institute |  Year  | Type
 <div align="center">
   <a href= "https://github.com/SebastiaoRegiSilva">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SebastiaoRegiSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoRegiSilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastiaoRegiSilva&layout=compact&langs_count=10&theme=dark"/>
 </div>
     
   
