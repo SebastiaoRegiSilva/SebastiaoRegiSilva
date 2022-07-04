@@ -1,4 +1,4 @@
-### Hi, this is Sebastião Willian, Junior .NET Developer! 👋
+<!--### Hi, this is Sebastião Willian, Junior .NET Developer! 👋
 
 ## 👨‍💻💻 A little about myself:
 <div>
@@ -67,3 +67,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-->
+COPY-PASTE PROHIBITED
