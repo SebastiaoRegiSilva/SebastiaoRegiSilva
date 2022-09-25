@@ -51,7 +51,8 @@ Description    |  Institute |  Year  | Type
 </div>
  
 <!--Teste --> 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sebastiao-willian-pereira-regi-da-silva-2b380418a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sebastiao-willian-pereira-regi-da-silva-2b380418a?trk=profile-badge">Sebastiao Willian Pereira Regi da Silva</a>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sebastiao-willian-pereira-regi-da-silva-2b380418a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sebastiao-willian-pereira-regi-da-silva-2b380418a?trk=profile-badge">Sebastiao Willian Pereira Regi da Silva</a></div>
+              
 </div>
               
   
