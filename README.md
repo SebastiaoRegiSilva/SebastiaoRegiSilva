@@ -1,4 +1,4 @@
-### Olá, Sou o Sebastião regi, Desenvolvedor Web Júnior! 👋
+### Olá, Sou o Sebastião Regi, Desenvolvedor Web Júnior! 👋
 
 ## 👨‍💻💻 Um pouco sobre mim:
 <div>
