@@ -1,14 +1,15 @@
 ### Hi, this is Sebastião Willian, Junior .NET Developer! 👋
 
-## 👨‍💻💻 A little about myself:
+## 👨‍💻💻 Um pouco sobre mim:
 <div>
   <p>
-    I'm a developer under construction, having experience as a Junior Web Developer. 
-    I have some knowledge in .NET, MySql, MongoDb and PHP. 
-    Public technical education student aiming for higher education in Portugal.    
+   Sou um técnico em desenvolvimento de sistemas, tendo experiência como Desenvolvedor Web Júnior.
+   Tenho vários conhecimento em .NET, MySql, MongoDb, PHP, Bash, Linux, GitHub e recentemente aprendendo Java.
+   Tornei um imigrante brasileiro em Portugal em 2022 junto com minha família!
+   
   </p>
 </div>
-<h3>🔥 💻 My skills: </h3>
+<h3>🔥 💻 Minhas Habilidades: </h3>
 <!--
 https://devicon.dev/ - Baixar os SVG's.
 -->
@@ -29,7 +30,7 @@ Description    |  Institute |  Year  | Type
   https://dev.to/envoy_/150-badges-for-github-pnk - Badges para redes sociais.
   API do WhatsApp - https://api.whatsapp.com/send?phone=seunumerodetelefone&text=sua%20mensagem
 -->
-<h3>🌎 My Social Networking Sites</h3>
+<h3>🌎 Minhas redes sociais</h3>
 <div>
   <!-- Facebook -->
   <a href="https://www.facebook.com/srwilliansilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -43,7 +44,7 @@ Description    |  Institute |  Year  | Type
   <!-- Medium -->
   <a href="https://medium.com/@swillian2009" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
-## GitHub Statistics 🛠️
+## Estatísticas do GitHub 🛠️
 
 <div align="center">
   <a href= "https://github.com/SebastiaoRegiSilva">
