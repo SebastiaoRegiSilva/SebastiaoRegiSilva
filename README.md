@@ -1,4 +1,4 @@
-### Hi, this is Sebastião Willian, Junior .NET Developer! 👋
+### Olá, Sou o Sebastião regi, Desenvolvedor Web Júnior! 👋
 
 ## 👨‍💻💻 Um pouco sobre mim:
 <div>
