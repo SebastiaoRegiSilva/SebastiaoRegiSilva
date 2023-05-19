@@ -4,7 +4,7 @@
 <div>
   <p>
    Sou um técnico em desenvolvimento de sistemas, tendo experiência como Desenvolvedor Web Júnior.
-   Tenho vários conhecimento em .NET, MySql, MongoDb, PHP, Bash, Linux, GitHub e recentemente aprendendo Java.
+   Tenho vários conhecimentos em .NET, MySql, MongoDb, PHP, Bash, Linux, GitHub e recentemente aprendendo Java.
    Tornei um imigrante brasileiro em Portugal em 2022 junto com minha família!
    
   </p>
