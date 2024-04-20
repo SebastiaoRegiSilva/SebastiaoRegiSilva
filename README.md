@@ -42,7 +42,7 @@ Description    |  Institute |  Year  | Type
   <a href="https://api.whatsapp.com/send?phone=351936760769&text=Hi!%20I%20found%20you%20in%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
   <!-- Medium -->
-  <a href="https://medium.com/@swillian2009" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@_wsilva09" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 ## Estatísticas do GitHub 🛠️
 
